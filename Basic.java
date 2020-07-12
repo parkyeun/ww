@@ -14,5 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/basic")
 public class Basic extends HttpServlet{
 아무것도 고쳐지지 않았다
+수정이 안되는데요?
 	}//end doGet()
 }//endClass
